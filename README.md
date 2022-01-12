@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CapsuleLosingContact
+- 👀 I’m interested in generative music, birds, videogames, renewable energy and plants
+- 🌱 I’m currently learning data analytics via SQL, DBT and Python
